@@ -24,6 +24,6 @@ document.onkeyup = function (e) {
   }
 }
 
-document.onmouseup = function () {
-  closeMenu()
-}
+// document.onmouseup = function () {
+//   closeMenu()
+// }
