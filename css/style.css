@@ -348,7 +348,7 @@ p {
   justify-content: center;
 }
 .social__icons {
-  width: 120px;
+  width: 110px;
   height: 20px;
   display: flex;
   align-items: center;
@@ -358,7 +358,7 @@ p {
   height: 100%;
 }
 .contact span {
-  margin-right: 10px;
+  margin-right: 20px;
   font-size: 18px;
 }
 .contact .mail {
@@ -374,8 +374,6 @@ p {
 .contact a {
   width: 20px;
   height: 20px;
-  margin-left: 5px;
-  margin-right: 5px;
 }
 .contact img:hover {
   opacity: .9;
